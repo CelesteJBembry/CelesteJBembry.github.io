@@ -1,110 +1,51 @@
-# Unit 08 Project 1 Homework: Professional Materials
+# Celeste J. Bembry
+Houston, TX 77469 |   
+Phone: 419-378-1116 |   
+Email: CelesteJBembry@gmail.com  
+LinkedIn: https://www.linkedin.com/in/celestejbembry |  
+Portfolio: www.github.com/CelesteJBembry  
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
+## Summary
+Ambitious Full Stack Developer with a background in Supply Chain Management and passion for delivering empathic user-experiences. Complex problem solver that thrives on creating compelling web and innovative mobile applications. Proven team collaborator with effective interpersonal communication skills. 
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+## Technical Skills
+**Browser-Based Languages:** HTML, HTML5, CSS, CSS3, JavaScript, jQuery, JSON  
+**Databases**: MySQL, MongoDB, Access  
+**Server-side Deployment:** MongoDB, Express.js, React.js, Node.js  
+**Other:** Heroku, Git, Microsoft Office Suite, SAP ERP, Bootstrap, Foundation, Wordpress, Sass  
 
+## Projects
+**Destiny App** | https://fierce-escarpment-58050.herokuapp.com/ | https://github.com/CelesteJBembry/DestinationApp 
+An app that allows users to take a quiz and based on their response, provides a travel suggestion. 
+Role: Front-End Developer
+Technologies & Languages: Javascript, Bootstrap, MongoDB, Express.js, React.js, Node.js
 
-## Requirements
+**Spitzy Drink App** | https://github.com/CelesteJBembry/Spritzy-Drink-App  https://celestejbembry.github.io/Spritzy-Drink-App 
+A mixed-drink suggestion site providing a large selection of drinks and recipes at random.
+Role: Front-End Developer
+Technologies & Languages: Javascript, Bootstrap, HTML
 
-* Updated portfolio featuring project 1 and two exemplary homework assignments. 
+## Experience
+**Mahindra Agriculture North America; Houston, TX                                                                    2019 – 2020**  
+*Senior Buyer*							                         
+-Obtained purchase requirements by verifying MRP data and prepared purchase orders for assigned vendors.  
+-Placed regular stock order and emergency orders as required to maintain the desired fill rate. 
 
-* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
+**John Deere; Ankeny, IA                                                                                                                 2014 – 2019**
+*Cost Management Specialist (2016 – 2019)*  
+-Managed over $500M spend between four product lines including Application Equipment and Cotton.  
+-Developed sourcing strategies based on supplier cost competitiveness to optimize global supply base.  
+-Analyzed bill-of-materials to identify areas of communization to optimize cost.  
+-Achieved $30M+ in cost savings projects over a three-year period through sourcing negotiations and collaborating with engineering to suggest redesigns.  
+-Led a Value Improvement Event generating a $20M in savings plan.  
 
-* Updated resume
+*Supply Management Buyer (2014 – 2016)*  
+-Managed a supply base of 30+ hydraulics suppliers with annual spend of $25M.  
+-Avoided $1M in plane charters from delinquent supplier shipments through strategic planning and negotiations; collaborated with supplier quality engineering to implement corrective actions.  
+-Achieved 15% annual reduction in late shipments through developing an action plan including frequent supplier meetings and plant visits to identify root-cause analysis for delays.  
+-Eliminating excess and obsolete inventory saving $100k annually.  
+-Garnered a promotion to a role of greater responsibility and oversight.  
 
-* Updated LinkedIn profile
-
-
-## Grading
-
-| Requirement      | Weight |
-|---               |---     |
-| Portoflio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
-
-
-## Instructions
-
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
-
-### Updated Portfolio
-
-Your updated site should have the following content:
-
-* Your name
-
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-
-* A link to a PDF of your resume
-
-* A list of projects. For each project, make sure you have the following:
-
-  * Project title
-
-  * Link to the deployed version
-
-  * Link to the GitHub repository
-
-  * Screenshot of the deployed application
-
-
-#### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-
-### Updated GitHub Profile 
-
-* If you haven't yet, now is the time to update the following in your GitHub profile: 
-
-    * Profile picture
-
-    * Bio
-
-    * Location
-
-    * Email
-
-    * Link to your portfolio
-
-* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
-
-* Pin some repos that you want to highlight
-
-  * Navigate to [GitHub](https://github.com/) and go to your profile.
-
-  * Click "Customize your pins"
-
-  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
-
-  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
-
-* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
-
-
-### Updated Resume 
-
-Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
-
-
-### Updated LinkedIn Profile 
-
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## Education
+**Bootcamp Certificate in Full Stack Web Development** - Rice University, Houston, TX | July 2020  
+**Bachelor of Science in Business Administration** - Bowling Green State University, Bowling Green, OH
